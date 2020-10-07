@@ -1,0 +1,58 @@
+{
+  "products":[
+    {
+    "id": 1,
+    "name": "item1",
+    "price": 175,
+    "discount": 5,
+    "imgUrl":"https://toppng.com/uploads/preview/aviator-sunglasses-png-11545511234lyk6k7hvgi.png"
+    },
+    {
+    "id": 2,
+    "name": "item2",
+    "price": 190,
+    "discount": 7,
+    "imgUrl":"https://www.pinclipart.com/picdir/middle/118-1184603_blue-sunglasses-png-png-sun-glass-clipart.png"
+    },
+    {
+    "id": 3,
+    "name": "item3",
+    "price": 213,
+    "discount": 20,
+    "imgUrl":"https://i.pinimg.com/originals/9b/68/4b/9b684bfc5e4bd28ad4283038632bff6d.png"
+    },
+    {
+    "id": 4,
+    "name":"item4",
+    "price": 217,
+    "discount": 18,
+    "imgUrl":"https://pngimg.com/uploads/sunglasses/sunglasses_PNG142.png"
+    },
+    {
+    "id": 5,
+    "name": "item5",
+    "price": 319,
+    "discount": 31,
+    "imgUrl":"https://pngimg.com/uploads/sunglasses/sunglasses_PNG95.png"
+    }
+  ],
+  
+  "cart":[],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
